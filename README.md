@@ -119,7 +119,7 @@ python sales_analysis.py
 **Sandeep Molleti**
 - MSc Computer Science Student
 - Email: sandeep.molleti22@law.ac.uk
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn:
 
 ## License
 
